@@ -5,6 +5,9 @@ This project performs an end-to-end analysis of e-commerce sales data to identif
 
 This project is designed to demonstrate real-world data analytics skills suitable for entry-level data analyst roles.
 
+<img width="761" height="424" alt="1792123641219" src="https://github.com/user-attachments/assets/e8b49de5-a404-48ed-8c1d-112f8e0f659e" />
+
+
 🎯 Business Objectives
 
 Identify profit-making and loss-making categories and sub-categories
